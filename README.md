@@ -1,9 +1,4 @@
 # Deep_Learning_Projects
-
-markdown
-Copy
-Edit
-# Deep_Learning_Projects
 # Multi-Modal Deep Learning Experiments
 
 This repository presents a collection of deep learning projects targeting classification tasks across different data modalities: tabular data, images, and audio. It is designed for learners and practitioners looking to gain hands-on experience with PyTorch and explore the differences and similarities in processing and modeling diverse data types.
