@@ -77,6 +77,3 @@ Familiarity with PyTorch (or eagerness to learn through practical examples)
 Kaggle for dataset hosting
 
 PyTorch community and documentation
-
-🪪 License
-This project is licensed under the MIT License. See the LICENSE file for details.
