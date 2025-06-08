@@ -45,7 +45,8 @@ If requirements.txt is missing, you can manually install the packages:
 ```bash
 pip install torch torchvision torchaudio scikit-learn matplotlib pandas opendatasets
 ```
-💻 Running the Notebooks
+
+##💻 Running the Notebooks
 You can run the notebooks using any of the following:
 
 Jupyter Notebook / JupyterLab
@@ -54,23 +55,25 @@ VS Code with Python and Jupyter extensions
 
 Google Colab (for cloud execution with GPU support)
 
-⚠️ Make sure to adjust file paths and dataset locations as needed when not using Colab.
 
-🔬 Example Use Cases
+##⚠️ Make sure to adjust file paths and dataset locations as needed when not using Colab.
+
+
+##🔬 Example Use Cases
 Benchmarking different neural network architectures
 
 Comparing performance across different input modalities
 
 Establishing a baseline for multimodal AI projects
 
-📚 Recommended Knowledge
+##📚 Recommended Knowledge
 Python programming
 
 Basics of neural networks
 
 Familiarity with PyTorch (or eagerness to learn through practical examples)
 
-🙌 Acknowledgments
+##🙌 Acknowledgments
 Kaggle for dataset hosting
 
 PyTorch community and documentation
