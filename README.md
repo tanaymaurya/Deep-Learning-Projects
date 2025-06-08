@@ -73,7 +73,3 @@ Basics of neural networks
 
 Familiarity with PyTorch (or eagerness to learn through practical examples)
 
-🙌 Acknowledgments
-Kaggle for dataset hosting
-
-PyTorch community and documentation
